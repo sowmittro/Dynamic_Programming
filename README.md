@@ -1,2 +1,2 @@
-# Dynamic-Programming-II
+# Dynamic_Programming
 Coins Change
